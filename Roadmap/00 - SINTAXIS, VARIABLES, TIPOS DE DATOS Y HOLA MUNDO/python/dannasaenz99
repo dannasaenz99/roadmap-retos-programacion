@@ -1,1 +1,21 @@
+# https://python.org/
+
+# comentario en una linea
+
+"""
+Esta es mi primera 
+vez utilizando 
+este lenguaje
+"""
+
+´´´
+Esta es mi primera 
+vez utilizando 
+este lenguaje 
+´´´
+
+mi_variable = "My variable"  
+mi_variable = "Nuevo valor de mi variable"
+
+MY CONSTANT = "My constante"  
 
